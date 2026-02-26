@@ -2,6 +2,7 @@
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
+[Visit The Deployed Project by Me](frontendmentor-afsuyadi-project-blogpreviewcard.pages.dev)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
